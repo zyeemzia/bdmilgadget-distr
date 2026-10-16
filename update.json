@@ -1,0 +1,6 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/zyeemzia/bdmilgadget-distr/releases/download/v1.0.0/bdmilgadget.apk",
+  "changeLog": "BD MIL GADGET 1.0.0 - first release. Tactical field suite: tracker, guided route follow with voice and offline maps, waypoints, compass and clinometer, timers, sun and moon, field calculators with resection, LED signalling, report formats and corps tools (ARTY, ARMD, INF, ENGR, MED, ORD, SUP, SIGS) with map pick, 8-figure grid entry and smart search."
+}
